@@ -1,0 +1,52 @@
+﻿comandos linux
+--------------
+
+
+borrar una carpeta vacia
+------------------
+rmdir nombrecarpeta
+
+
+borrar una carpeta con archivos
+-------------------------------
+rm -Rf nombrecarpeta
+
+
+mover archivos
+-------------
+mover el archivo prueba1.txt y renombrar a una nueva carpeta prueba.txt
+mv prueba1.txt ~/nuevacarpeta1/prueba.txt
+
+
+
+
+describir el tipo de archivo
+----------------------------
+file nombreArchivo
+
+
+
+
+Comandos iniciales
+------------------
+echo 'cadena a mostrarse'
+
+
+Guardar contenido en un archivo nuevo
+--------------------------------
+echo 'cadena' > nombre archivo
+
+
+anadir contenido a un archivo
+------------------------------
+echo 'cadena' >> nombrearchivo
+
+
+copia de seguridad archivo
+--------------------------
+tar cfv copia_seguridad.tar dir1 dir2 archivo1 archivo2...
+
+
+descomprimir archivo
+---------------------
+tar xfv copia_seguridad.tar
