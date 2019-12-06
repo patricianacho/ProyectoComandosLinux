@@ -60,3 +60,10 @@ find -uname "*.exe"
 mostrar las 5 ultimas lineas de un archivo
 -----------------------------------
 tail -5 /var/log/syslog
+
+mostrar la ruta donde se encuentra la consola
+---------------------------------------------
+pwd
+
+
+
