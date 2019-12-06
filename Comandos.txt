@@ -55,3 +55,8 @@ tar xfv copia_seguridad.tar
 buscar archivo
 ---------------------
 find -uname "*.exe"
+
+
+mostrar las 5 ultimas lineas de un archivo
+-----------------------------------
+tail -5 /var/log/syslog
