@@ -70,3 +70,6 @@ pwd
 ¿Como saber el número de lineas de un archivo?
 ---------------------------------------------
 wc -l test.txt
+
+como hago el pullrequest?
+Respuesta.-
