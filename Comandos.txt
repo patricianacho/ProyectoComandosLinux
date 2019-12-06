@@ -50,3 +50,8 @@ tar cfv copia_seguridad.tar dir1 dir2 archivo1 archivo2...
 descomprimir archivo
 ---------------------
 tar xfv copia_seguridad.tar
+
+
+buscar archivo
+---------------------
+find -uname "*.exe"
