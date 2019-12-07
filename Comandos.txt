@@ -29,6 +29,7 @@ file nombreArchivo
 
 Comandos iniciales
 ------------------
+echo 'cadena a mostrarse en la pantalla'
 echo 'cadena a mostrarse en todas las ventanas'
 
 
