@@ -29,7 +29,7 @@ file nombreArchivo
 
 Comandos iniciales
 ------------------
-echo 'cadena a mostrarse'
+echo 'cadena a mostrarse en todas las ventanas'
 
 
 Guardar contenido en un archivo nuevo
